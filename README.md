@@ -8,7 +8,7 @@ My main skills are:
 
 :red_circle: Java
 
-:large_blue_diamond: Spring Boot
+- :large_blue_diamond: Spring Boot
 	
 :small_orange_diamond: MVC
 :small_orange_diamond: DATA
