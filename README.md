@@ -10,40 +10,40 @@ My main skills are:
 
 - :large_blue_diamond: Spring Boot
 	
-:small_orange_diamond: MVC
-:small_orange_diamond: DATA
-:small_orange_diamond: Security (Basic)
+	- :small_orange_diamond: MVC
+	- :small_orange_diamond: DATA
+	- :small_orange_diamond: Security (Basic)
 
-:large_blue_diamond: JPA
+- :large_blue_diamond: JPA
 
-:large_blue_diamond: Hibernate
+- :large_blue_diamond: Hibernate
 
-:large_blue_diamond: Maven
+- :large_blue_diamond: Maven
 
-:large_blue_diamond: Lombok
+- :large_blue_diamond: Lombok
 
-:large_blue_diamond: MapStruct
+- :large_blue_diamond: MapStruct
 
-:large_blue_diamond: ApacheCommons
+- :large_blue_diamond: ApacheCommons
 
-:large_blue_diamond: Apache Poi
+- :large_blue_diamond: Apache Poi
 
-:large_blue_diamond: JUnit
+- :large_blue_diamond: JUnit
 
-:large_blue_diamond: Mockito
+- :large_blue_diamond: Mockito
 	
 :red_circle: Python (Basic)
 
 :red_circle: Typescript
 
-:large_blue_diamond: Angular  (+4...)
-:small_orange_diamond: Primeng
+- :large_blue_diamond: Angular  (+4...)
+	- :small_orange_diamond: Primeng
 
-:large_blue_diamond: Ionic  (2 - Basic)
+- :large_blue_diamond: Ionic  (2 - Basic)
 
-:large_blue_diamond: JQuery
+- :large_blue_diamond: JQuery
 
-:large_blue_diamond: Bootstrap
+- :large_blue_diamond: Bootstrap
 	
 
 :red_circle: PostgreSQL
@@ -58,6 +58,6 @@ My main skills are:
 
 :red_circle: Jenkins
 
-:large_blue_diamond: GitHub
+:red_circle: GitHub
 
 
