@@ -10,9 +10,9 @@ My main skills are:
 
 :small_red_triangle_down: Spring Boot
 	
-	:small_orange_diamond: MVC
-	:small_orange_diamond: DATA
-	:small_orange_diamond: Security (Basic)
+:small_orange_diamond: MVC
+:small_orange_diamond: DATA
+:small_orange_diamond: Security (Basic)
 
 :small_red_triangle_down: JPA
 
