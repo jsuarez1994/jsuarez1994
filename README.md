@@ -58,6 +58,8 @@ My main skills are:
 
 :red_circle: Jenkins
 
+:red_circle: Docker (Basic)
+
 :red_circle: GitHub
 
 
