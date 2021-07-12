@@ -31,6 +31,12 @@ My main skills are:
 - :large_blue_diamond: JUnit
 
 - :large_blue_diamond: Mockito
+
+:red_circle: Node.js
+
+- :large_blue_diamond: Express
+	
+	- :small_orange_diamond: Mongoose
 	
 :red_circle: Python (Basic)
 
