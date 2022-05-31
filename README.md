@@ -51,14 +51,15 @@ My main skills are:
 
 - :beginner: Bootstrap
 	
-	
-:floppy_disk:
+<details>
+<summary>:floppy_disk:</summary>
+<br>
 > :key: PostgreSQL
 > :key: Oracle
 > :key: MySQL
 > :key: Postgree
 > :key: MongoDB
-
+</details>
 
 :bulb:
 > :key: Sonnar
