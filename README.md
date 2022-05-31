@@ -22,7 +22,7 @@ My main skills are:
 			</details>
 		</li>
 
-		<li>:beginner: JPA </li>
+		<li> :beginner: JPA </li>
 
 		<li> :beginner: Hibernate </li>
 
