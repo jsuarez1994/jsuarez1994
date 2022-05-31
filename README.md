@@ -9,32 +9,29 @@ My main skills are:
 <details>
 	<summary>:fleur_de_lis: Java</summary>
 	<br>
-	<ul>
-		<li> :beginner: Spring Boot 
+	- :beginner: Spring Boot 
 				:small_orange_diamond: MVC
 				:small_orange_diamond: DATA
 				:small_orange_diamond: Security (Basic)
-		</li>
-		<li> :beginner: JPA </li>
+	- :beginner: JPA
 
-		<li> :beginner: Hibernate </li>
+	- :beginner: Hibernate
 
-		<li> :beginner: Maven </li>
+	- :beginner: Maven
 
-		<li> :beginner: Lombok </li>
+	- :beginner: Lombok
 
-		<li> :beginner: MapStruct </li>
+	- :beginner: MapStruct
 
-		<li> :beginner: ApacheCommons </li>
+	- :beginner: ApacheCommons
 
-		<li> :beginner: Apache Poi </li>
+	- :beginner: Apache Poi
 
-		<li> :beginner: JUnit </li>
+	- :beginner: JUnit
 
-		<li> :beginner: Mockito </li>
+	- :beginner: Mockito
 		
-		<li> :beginner: Jasper Report </li>
-	<ul>
+	- :beginner: Jasper Report
 </details>
 
 <details>
