@@ -1,55 +1,79 @@
-## Hello :v:
+# Hello :v:
 
-### I am Full Stack Developer (with Angular - Java) :star:
+## I am Full Stack Developer (with Angular - Java) :star:
 
 My name is Jesus and i am a full stack. I'm from Spain and I love to continue learning new technologies. :sparkling_heart:
 
 My main skills are:
 
-:fleur_de_lis: Java
+<details>
+	<summary>:fleur_de_lis: Java</summary>
+	<br>
+	<ul>
+		<li> 
+			<details>
+				<summary>:beginner: Spring Boot</summary>
+				<br>
+				<ul>
+					<li> :small_orange_diamond: MVC </li>
+					<li> :small_orange_diamond: DATA </li>
+					<li> :small_orange_diamond: Security (Basic) </li>
+				</ul>
+			</details>
+		</li>
 
-- :beginner: Spring Boot
+		<li>:beginner: JPA </li>
+
+		<li> :beginner: Hibernate </li>
+
+		<li> :beginner: Maven </li>
+
+		<li> :beginner: Lombok </li>
+
+		<li> :beginner: MapStruct </li>
+
+		<li> :beginner: ApacheCommons </li>
+
+		<li> :beginner: Apache Poi </li>
+
+		<li> :beginner: JUnit </li>
+
+		<li> :beginner: Mockito </li>
+		
+		<li> :beginner: Jasper Report </li>
+	</ul>
 	
-	- :small_orange_diamond: MVC
-	- :small_orange_diamond: DATA
-	- :small_orange_diamond: Security (Basic)
+</details>
 
-- :beginner: JPA
-
-- :beginner: Hibernate
-
-- :beginner: Maven
-
-- :beginner: Lombok
-
-- :beginner: MapStruct
-
-- :beginner: ApacheCommons
-
-- :beginner: Apache Poi
-
-- :beginner: JUnit
-
-- :beginner: Mockito
-
-:fleur_de_lis: Node.js
-
-- :beginner: Express
-	
-	- :small_orange_diamond: Mongoose
+<details>
+	<summary>:fleur_de_lis: Node.js</summary>
+	<br>
+	<ul>
+		<li> :beginner: Express </li>
+		<ul>
+			<li> :small_orange_diamond: Mongoose </li>
+		</ul>
+	<ul>
+</details>
 	
 :fleur_de_lis: Python (Basic)
 
-:fleur_de_lis: Typescript
+<details>
+	<summary>:fleur_de_lis: Typescript</summary>
+	<br>
+	<ul>
+		<li> :beginner: Angular  (+4...)</li> 
+			<ul>
+				<li>:small_orange_diamond: Primeng</li> 
+			</ul>
 
-- :beginner: Angular  (+4...)
-	- :small_orange_diamond: Primeng
+		<li> :beginner: Ionic  (2 - Basic)</li> 
 
-- :beginner: Ionic  (2 - Basic)
+		<li> :beginner: JQuery</li> 
 
-- :beginner: JQuery
-
-- :beginner: Bootstrap
+		<li> :beginner: Bootstrap</li> 
+	</ul>
+</details>
 	
 <details>
 <summary>:floppy_disk: Database</summary>
