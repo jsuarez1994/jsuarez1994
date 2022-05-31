@@ -6,50 +6,50 @@ My name is Jesus and i am a full stack. I'm from Spain and I love to continue le
 
 My main skills are:
 
-:red_circle: Java
+:medal_military: Java
 
-- :large_blue_diamond: Spring Boot
+- :1st_place_medal: Spring Boot
 	
 	- :small_orange_diamond: MVC
 	- :small_orange_diamond: DATA
 	- :small_orange_diamond: Security (Basic)
 
-- :large_blue_diamond: JPA
+- :1st_place_medal: JPA
 
-- :large_blue_diamond: Hibernate
+- :1st_place_medal: Hibernate
 
-- :large_blue_diamond: Maven
+- :1st_place_medal: Maven
 
-- :large_blue_diamond: Lombok
+- :1st_place_medal: Lombok
 
-- :large_blue_diamond: MapStruct
+- :1st_place_medal: MapStruct
 
-- :large_blue_diamond: ApacheCommons
+- :1st_place_medal: ApacheCommons
 
-- :large_blue_diamond: Apache Poi
+- :1st_place_medal: Apache Poi
 
-- :large_blue_diamond: JUnit
+- :1st_place_medal: JUnit
 
-- :large_blue_diamond: Mockito
+- :1st_place_medal: Mockito
 
-:red_circle: Node.js
+:medal_military: Node.js
 
-- :large_blue_diamond: Express
+- :1st_place_medal: Express
 	
 	- :small_orange_diamond: Mongoose
 	
-:red_circle: Python (Basic)
+:medal_military: Python (Basic)
 
-:red_circle: Typescript
+:medal_military: Typescript
 
-- :large_blue_diamond: Angular  (+4...)
+- :1st_place_medal: Angular  (+4...)
 	- :small_orange_diamond: Primeng
 
-- :large_blue_diamond: Ionic  (2 - Basic)
+- :1st_place_medal: Ionic  (2 - Basic)
 
-- :large_blue_diamond: JQuery
+- :1st_place_medal: JQuery
 
-- :large_blue_diamond: Bootstrap
+- :1st_place_medal: Bootstrap
 	
 
 :red_circle: PostgreSQL
