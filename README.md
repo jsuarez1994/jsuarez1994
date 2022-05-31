@@ -9,20 +9,25 @@ My main skills are:
 <details>
 	<summary>:fleur_de_lis: Java</summary>
 	<br>
-	- :beginner: Spring Boot 
-				:small_orange_diamond: MVC
-				:small_orange_diamond: DATA
-				:small_orange_diamond: Security (Basic)
-	- :beginner: JPA
-	- :beginner: Hibernate
-	- :beginner: Maven
-	- :beginner: Lombok
-	- :beginner: MapStruct
-	- :beginner: ApacheCommons
-	- :beginner: Apache Poi
-	- :beginner: JUnit
-	- :beginner: Mockito
-	- :beginner: Jasper Report
+	<ul>
+		<li> :beginner: Spring Boot 
+			<ul>
+				<li> :small_orange_diamond: MVC </li>
+				<li> :small_orange_diamond: DATA </li>
+				<li> :small_orange_diamond: Security (Basic) </li>
+			</ul>
+		</li>
+		<li> :beginner: JPA </li>
+		<li> :beginner: Hibernate </li>
+		<li> :beginner: Maven </li>
+		<li> :beginner: Lombok </li>
+		<li> :beginner: MapStruct </li>
+		<li> :beginner: ApacheCommons </li>
+		<li> :beginner: Apache Poi </li>
+		<li> :beginner: JUnit </li>
+		<li> :beginner: Mockito </li>
+		<li> :beginner: Jasper Report </li>
+	<ul>
 </details>
 
 <details>
@@ -33,11 +38,8 @@ My main skills are:
 			<ul>
 				<li>:small_orange_diamond: Primeng</li> 
 			</ul>
-
 		<li> :beginner: Ionic  (2 - Basic)</li> 
-
 		<li> :beginner: JQuery</li> 
-
 		<li> :beginner: Bootstrap</li> 
 	</ul>
 </details>
