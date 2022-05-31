@@ -17,6 +17,7 @@ My main skills are:
 				<li> :small_orange_diamond: Security (Basic) </li>
 			</ul>
 		</li>
+		<li> :beginner: Lambda </li>
 		<li> :beginner: JPA </li>
 		<li> :beginner: Hibernate </li>
 		<li> :beginner: Maven </li>
