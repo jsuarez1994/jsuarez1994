@@ -54,7 +54,8 @@ My main skills are:
 <details>
 <summary>:floppy_disk: Database</summary>
 <br>
-- :key: PostgreSQL
+- :beginner: Angular  (+4...)
+	- :small_orange_diamond: Primeng
 - :key: Oracle
 - :key: MySQL
 - :key: Postgree
