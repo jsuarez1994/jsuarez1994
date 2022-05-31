@@ -63,7 +63,7 @@ My main skills are:
 </details>
 
 <details>
-<summary>:bulb: Tools</summary>
+<summary> :hammer_and_wrench: Tools</summary>
 <br>
 	<ul>
 		<li>:key: Sonnar</li>
@@ -73,7 +73,7 @@ My main skills are:
 </details>
 
 <details>
-<summary>:hammer_and_wrench: Bonus</summary>
+<summary> :bulb: Bonus</summary>
 <br>
 	<ul>
 		<li>:key: Docker (Basic)</li>
