@@ -1,6 +1,6 @@
 # Hello :v:
 
-## I am Full Stack Developer (with Angular - Java) :star:
+## I am Full Stack Developer (Angular/Java) :star:
 
 My name is Jesus and i am a full stack. I'm from Spain and I love to continue learning new technologies. :sparkling_heart:
 
@@ -11,6 +11,7 @@ My main skills are:
 	<br>
 	<ul>
 		<li> 
+			<details>
 				<summary>:beginner: Spring Boot</summary>
 				<br>
 				<ul>
@@ -18,6 +19,7 @@ My main skills are:
 					<li> :small_orange_diamond: DATA </li>
 					<li> :small_orange_diamond: Security (Basic) </li>
 				</ul>
+			</details>
 		</li>
 
 		<li> :beginner: JPA </li>
@@ -44,19 +46,6 @@ My main skills are:
 </details>
 
 <details>
-	<summary>:fleur_de_lis: Node.js</summary>
-	<br>
-	<ul>
-		<li> :beginner: Express </li>
-		<ul>
-			<li> :small_orange_diamond: Mongoose </li>
-		</ul>
-	<ul>
-</details>
-	
-:fleur_de_lis: Python (Basic)
-
-<details>
 	<summary>:fleur_de_lis: Typescript</summary>
 	<br>
 	<ul>
@@ -72,6 +61,19 @@ My main skills are:
 		<li> :beginner: Bootstrap</li> 
 	</ul>
 </details>
+
+<details>
+	<summary>:fleur_de_lis: Node.js</summary>
+	<br>
+	<ul>
+		<li> :beginner: Express </li>
+		<ul>
+			<li> :small_orange_diamond: Mongoose </li>
+		</ul>
+	<ul>
+</details>
+	
+:fleur_de_lis: Python (Basic)
 	
 <details>
 <summary>:floppy_disk: Database</summary>
