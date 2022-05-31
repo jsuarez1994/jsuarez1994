@@ -54,21 +54,25 @@ My main skills are:
 <details>
 <summary>:floppy_disk:</summary>
 <br>
-> :key: PostgreSQL
-> :key: Oracle
-> :key: MySQL
-> :key: Postgree
-> :key: MongoDB
+:key: PostgreSQL
+:key: Oracle
+:key: MySQL
+:key: Postgree
+:key: MongoDB
 </details>
 
-:bulb:
+<details>
+<summary>:bulb:</summary>
+<br>
 > :key: Sonnar
 > :key: Kiuwan
 > :key: Jenkins
+</details>
 
-
-:hammer_and_wrench:
+<details>
+<summary>:hammer_and_wrench:</summary>
+<br>
 > :key: Docker (Basic)
 > :key: GitHub
-
+</details>
 
