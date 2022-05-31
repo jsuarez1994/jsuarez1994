@@ -14,23 +14,14 @@ My main skills are:
 				:small_orange_diamond: DATA
 				:small_orange_diamond: Security (Basic)
 	- :beginner: JPA
-
 	- :beginner: Hibernate
-
 	- :beginner: Maven
-
 	- :beginner: Lombok
-
 	- :beginner: MapStruct
-
 	- :beginner: ApacheCommons
-
 	- :beginner: Apache Poi
-
 	- :beginner: JUnit
-
 	- :beginner: Mockito
-		
 	- :beginner: Jasper Report
 </details>
 
