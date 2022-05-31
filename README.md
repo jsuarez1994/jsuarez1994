@@ -48,12 +48,6 @@ My main skills are:
 	<summary>:fleur_de_lis: Java</summary>
 	<br>
 	<ul>
-		<li> :beginner: Spring Boot </li>
-		<ul>
-			<li> :small_orange_diamond: MVC </li>
-			<li> :small_orange_diamond: DATA </li>
-			<li> :small_orange_diamond: Security (Basic) </li>
-		</ul>
 		<li> :beginner: JPA </li>
 
 		<li> :beginner: Hibernate </li>
@@ -73,6 +67,13 @@ My main skills are:
 		<li> :beginner: Mockito </li>
 		
 		<li> :beginner: Jasper Report </li>
+		<li> :beginner: Spring Boot </li>
+		<ul>
+			<li> :small_orange_diamond: MVC </li>
+			<li> :small_orange_diamond: DATA </li>
+			<li> :small_orange_diamond: Security (Basic) </li>
+		</ul>
+		
 	<ul>
 </details>
 
