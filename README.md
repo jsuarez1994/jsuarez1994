@@ -6,70 +6,77 @@ My name is Jesus and i am a full stack. I'm from Spain and I love to continue le
 
 My main skills are:
 
-:medal_military: Java
+:fleur_de_lis: Java
 
-- :1st_place_medal: Spring Boot
+- :beginner: Spring Boot
 	
 	- :small_orange_diamond: MVC
 	- :small_orange_diamond: DATA
 	- :small_orange_diamond: Security (Basic)
 
-- :1st_place_medal: JPA
+- :beginner: JPA
 
-- :1st_place_medal: Hibernate
+- :beginner: Hibernate
 
-- :1st_place_medal: Maven
+- :beginner: Maven
 
-- :1st_place_medal: Lombok
+- :beginner: Lombok
 
-- :1st_place_medal: MapStruct
+- :beginner: MapStruct
 
-- :1st_place_medal: ApacheCommons
+- :beginner: ApacheCommons
 
-- :1st_place_medal: Apache Poi
+- :beginner: Apache Poi
 
-- :1st_place_medal: JUnit
+- :beginner: JUnit
 
-- :1st_place_medal: Mockito
+- :beginner: Mockito
 
-:medal_military: Node.js
+:fleur_de_lis: Node.js
 
-- :1st_place_medal: Express
+- :beginner: Express
 	
 	- :small_orange_diamond: Mongoose
 	
-:medal_military: Python (Basic)
+:fleur_de_lis: Python (Basic)
 
-:medal_military: Typescript
+:fleur_de_lis: Typescript
 
-- :1st_place_medal: Angular  (+4...)
+- :beginner: Angular  (+4...)
 	- :small_orange_diamond: Primeng
 
-- :1st_place_medal: Ionic  (2 - Basic)
+- :beginner: Ionic  (2 - Basic)
 
-- :1st_place_medal: JQuery
+- :beginner: JQuery
 
-- :1st_place_medal: Bootstrap
+- :beginner: Bootstrap
 	
+	
+:floppy_disk:
 
-:red_circle: PostgreSQL
+:key: PostgreSQL
 
-:red_circle: Oracle
+:key: Oracle
 
-:red_circle: MySQL
+:key: MySQL
 
-:red_circle: Postgree
+:key: Postgree
 
-:red_circle: MongoDB
+:key: MongoDB
 
-:red_circle: Sonnar
 
-:red_circle: Kiuwan
+:bulb:
 
-:red_circle: Jenkins
+:key: Sonnar
 
-:red_circle: Docker (Basic)
+:key: Kiuwan
 
-:red_circle: GitHub
+:key: Jenkins
+
+
+:hammer_and_wrench:
+:key: Docker (Basic)
+
+:key: GitHub
 
 
