@@ -10,7 +10,16 @@ My main skills are:
 	<summary>:fleur_de_lis: Java</summary>
 	<br>
 	<ul>
-		
+		<li> 
+				:beginner: Spring Boot
+				<br>
+				<ul>
+					<li> :small_orange_diamond: MVC </li>
+					<li> :small_orange_diamond: DATA </li>
+					<li> :small_orange_diamond: Security (Basic) </li>
+				</ul>
+			</details>
+		</li>
 
 		<li> :beginner: JPA </li>
 
