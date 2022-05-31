@@ -11,11 +11,9 @@ My main skills are:
 	<br>
 	<ul>
 		<li> :beginner: Spring Boot 
-			<ul>
 				<li> :small_orange_diamond: MVC </li>
 				<li> :small_orange_diamond: DATA </li>
 				<li> :small_orange_diamond: Security (Basic) </li>
-			</ul>
 		</li>
 		<li> :beginner: JPA </li>
 
