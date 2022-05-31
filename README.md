@@ -2,7 +2,7 @@
 
 ## I am Full Stack Developer (Angular/Java) :star:
 
-My name is Jesus and I am a full stack. I'm from Spain and I love to continue learning new technologies. :sparkling_heart:
+My name is Jesus and I am a fullstack. I'm from Spain and I love to continue learning new technologies. :sparkling_heart:
 
 My main skills are:
 
@@ -10,15 +10,7 @@ My main skills are:
 	<summary>:fleur_de_lis: Java</summary>
 	<br>
 	<ul>
-		<li> 
-			<details>
-				<summary>:beginner: Spring Boot</summary>
-				<br>
-					 :small_orange_diamond: MVC 
-					 :small_orange_diamond: DATA 
-					 :small_orange_diamond: Security (Basic) 
-			</details>
-		</li>
+		
 
 		<li> :beginner: JPA </li>
 
