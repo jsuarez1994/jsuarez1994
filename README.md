@@ -65,15 +65,19 @@ My main skills are:
 <details>
 <summary>:bulb: Tools</summary>
 <br>
-- :key: Sonnar
-- :key: Kiuwan
-- :key: Jenkins
+	<ul>
+		<li>:key: Sonnar</li>
+		<li>:key: Kiuwan</li>
+		<li>:key: Jenkins</li>
+	</ul>
 </details>
 
 <details>
 <summary>:hammer_and_wrench: Bonus</summary>
 <br>
-- :key: Docker (Basic)
-- :key: GitHub
+	<ul>
+		<li>:key: Docker (Basic)</li>
+		<li>:key: GitHub</li>
+	</ul>
 </details>
 
