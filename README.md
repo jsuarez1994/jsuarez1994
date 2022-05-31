@@ -58,6 +58,10 @@ My main skills are:
 
 :red_circle: MySQL
 
+:red_circle: Postgree
+
+:red_circle: MongoDB
+
 :red_circle: Sonnar
 
 :red_circle: Kiuwan
