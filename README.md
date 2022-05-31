@@ -54,12 +54,12 @@ My main skills are:
 <details>
 <summary>:floppy_disk: Database</summary>
 <br>
-- :beginner: Angular  (+4...)
-	- :small_orange_diamond: Primeng
-- :key: Oracle
-- :key: MySQL
-- :key: Postgree
-- :key: MongoDB
+	<ul>
+		<li>:key: Oracle</li>
+		<li>:key: MySQL</li>
+		<li>:key: Postgree</li>
+		<li>:key: MongoDB</li>
+	</ul>
 </details>
 
 <details>
