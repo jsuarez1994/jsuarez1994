@@ -73,7 +73,7 @@ My main skills are:
 <summary> :hammer_and_wrench: Tools</summary>
 <br>
 	<ul>
-		<li>:key: Sonnar</li>
+		<li>:key: Sonar</li>
 		<li>:key: Kiuwan</li>
 		<li>:key: Jenkins</li>
 	</ul>
