@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <h3 align="center">¡Hola 👋! Soy mi nombre es Jesús Suárez 👨🏻‍💻</h3>
+   <h1 align="center">¡Hola 👋! Soy mi nombre es Jesús Suárez 👨🏻‍💻</h3>
 </p>
 
 ### **Full-stack Java & Javascript Engineer**
