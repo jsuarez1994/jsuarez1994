@@ -3,9 +3,9 @@
 
 Soy desarrollador de software profesional desde 2018.
 
-He pasado por varias empresas y proyectos de todo tipo, en el sector que mas experiencia tengo es en el bancario.
-Me encanta aprender nuevas tecnologías y de mis compañeros, como dice el dicho:
-> *Equipo solido siempre avanza mas lejos que un gran guerrero.*
+He pasado por varias empresas y proyectos de todo tipo, en el sector que más experiencia tengo es el bancario.
+Me encanta aprender nuevas tecnologías y de mis compañeros que como dice el dicho:
+> *Un equipo sólido siempre avanza más lejos que un gran guerrero.*
 
 Me considero una persona proactiva, participativa, comunicativa y positiva a la hora de afrontar un nuevo reto.
 
