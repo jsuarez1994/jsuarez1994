@@ -24,7 +24,6 @@ Me considero una persona proactiva, participativa, comunicativa y positiva a la 
 ![apachemaven](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![angular](https://img.shields.io/badge/angular-DD1100?style=for-the-badge&logo=angular&logoColor=white)
 ![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![mongoose](https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 </br></br>
