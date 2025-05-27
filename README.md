@@ -14,14 +14,12 @@ Me considero una persona proactiva, participativa, comunicativa y positiva a la 
 
 >## *TECNOLOGÍAS:*
 >![JAVA](https://img.shields.io/badge/JAVA-%236DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NODE.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-</br></br>
 ![spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![springsecurity](https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NODE.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+</br></br>
 ![junit5](https://img.shields.io/badge/junit5-4169E1?style=for-the-badge&logo=junit5&logoColor=white)
 ![apachemaven](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![angular](https://img.shields.io/badge/angular-DD1100?style=for-the-badge&logo=angular&logoColor=white)
